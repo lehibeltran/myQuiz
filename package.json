@@ -1,0 +1,19 @@
+{
+  "name": "myquiz",
+  "version": "1.0.0",
+  "description": "quiz angular program",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lehibeltran86/myQuiz.git"
+  },
+  "author": "lehi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lehibeltran86/myQuiz/issues"
+  },
+  "homepage": "https://github.com/lehibeltran86/myQuiz#readme"
+}
